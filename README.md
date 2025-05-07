@@ -1,26 +1,6 @@
 # mL_Project
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Multi-Step Regression + Classification for Employee Attrition & Salary Estimation
 
 ## Overview
@@ -75,7 +55,31 @@ This project goes beyond standard HR analytics by combining classification (who 
 ## Tools
 
 Python, Pandas, Scikit-learn, Matplotlib/Seaborn
+🛠️ Libraries & Tools Used
 
+    Pandas – data manipulation and analysis
+
+    NumPy – numerical operations
+
+    Matplotlib – data visualization
+
+    Seaborn – statistical data visualization
+
+    Scikit-learn – machine learning models and utilities:
+
+        train_test_split – data splitting
+
+        LabelEncoder, StandardScaler – preprocessing
+
+        LogisticRegression, DecisionTreeClassifier, SVC – classification models
+
+        RandomForestRegressor, Ridge – regression models
+
+        f1_score, roc_auc_score, classification_report, accuracy_score, r2_score, mean_squared_error – evaluation metrics
+
+    SciPy (stats) – statistical functions
+
+    OS – file and path operations 
 ## Impact
 
 * Spot high-risk, high-value employees
@@ -83,40 +87,11 @@ Python, Pandas, Scikit-learn, Matplotlib/Seaborn
 
 ## License
 
-Academic use only. Cite sources accordingly.
+Academic use only. 
 
 ---
 
-Fork or contribute freely!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+CONTRIBUTIONS ==>
 
 SE23UCSE005 - Charan --> contribution:  16.5 % 
 
