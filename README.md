@@ -52,10 +52,7 @@ This project goes beyond standard HR analytics by combining classification (who 
 * Combine attrition risk and future salary
 * Answer: "If this person leaves, how much are we losing?"
 
-## Tools
-
-Python, Pandas, Scikit-learn, Matplotlib/Seaborn
-🛠️ Libraries & Tools Used
+## 🛠️ Libraries & Tools Used
 
     Pandas – data manipulation and analysis
 
