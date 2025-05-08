@@ -92,7 +92,7 @@ CONTRIBUTIONS ==>
 
 SE23UCSE005 - Charan --> contribution:  16.5 % 
 
-SE23UCSE006 - Vivardhan --> contribution:  23.5 % 
+SE23UCSE006 - Vivardhan --> contribution:  23.5  % 
 
 SE23UCSEO22 - Amogh  --> contribution:  23.5 % 
 
